@@ -1,0 +1,9 @@
+{
+    "API_KEY": "my-api-key",
+    "PROXIES": {
+        "http": "",
+        "https": ""
+    },
+    "SERVER_URL": "https://glassfrog.holacracy.org/api/v3/",
+    "VERIFY_SSL": true
+}
